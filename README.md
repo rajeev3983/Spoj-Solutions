@@ -1,1 +1,1 @@
-Solutions to some SPOJ problems.
+Solutions to some SPOJ problems I solved. 
